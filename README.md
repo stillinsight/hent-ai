@@ -2,6 +2,7 @@
 
 
 
+![Still+holding+out+for+that+one+i+expect+a+pc+_comment_3710b41141d1e1429653c9ba14f28a5f](https://user-images.githubusercontent.com/82014432/206927551-adef95cc-ef32-48f6-9595-17d01824ff3d.jpg)
 
 # machine learning
 
