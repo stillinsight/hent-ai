@@ -36,10 +36,6 @@ types of files
 	- ocr vs pypdf2
 - remove headers and footers
 
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
-
 ## epub
 
 how the fuck do these things work
