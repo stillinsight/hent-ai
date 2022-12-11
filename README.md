@@ -1,2 +1,62 @@
 # hent-ai
-im writing books
+
+
+
+
+# machine learning
+
+StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+
+## gpt2-simple
+
+356M model
+
+
+
+
+# training data
+
+ero LNs
+
+## collecting data
+types of files
+
+ - epub
+ - full text online
+ - pdf
+
+## cleaning data
+
+ - convert all formats to utf-8 txt file
+
+## pdfs
+
+- convert to txt
+	- ocr vs pypdf2
+- remove headers and footers
+
+If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
+
+> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
+
+## epub
+
+how the fuck do these things work
+
+
+# txt
+
+ - webscrape certain websites
+ - need these to be as agnostic as possible per website
+ - collect and write to txt file
+
+> Before starting to publish, you must link an account in the **Publish** sub-menu.
+
+## compiling training data
+
+
+- put all in one txt file
+- delimit with  <|endoftext|> at end of each book
+	- should be per chapter? need to read 
+- check if needs to be one file or can be a dir
+
