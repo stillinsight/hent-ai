@@ -10,50 +10,23 @@ i write book
 
 ## gpt2-simple
 
-356M model
-
+355M model
 
 
 
 # training data
 
 ero LNs
+choosing specific novels instead of downloading all by tag. found that while large quantity, quality was not always there
+need to further research how much is good amount for training data on pretrained models
 
 ## collecting data
-types of files
-
- - epub
- - full text online
- - pdf
-
-## cleaning data
-
- - convert all formats to utf-8 txt file
-
-## pdfs
-
-- convert to txt
-	- ocr vs pypdf2
-- remove headers and footers
-
-## epub
-
-how the fuck do these things work
-
-
-# txt
-
  - webscrape certain websites
- - need these to be as agnostic as possible per website
- - collect and write to txt file
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
+ - collect all chapter available for site. compile into txt file
+ - delin files w <|endoftext|> _need to look more into delin_
 
 ## compiling training data
+- merge all txt files into one and zip
+- upload to drive for now as is over 5gb 
 
-
-- put all in one txt file
-- delimit with  <|endoftext|> at end of each book
-	- should be per chapter? need to read 
-- check if needs to be one file or can be a dir
 
